@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket1228&label=Profile%20views&color=0e75b6&style=flat" alt="sanket1228" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 You can check my portfolio on [sanketpatil.herokuapp.com](sanketpatil.herokuapp.com)
 
