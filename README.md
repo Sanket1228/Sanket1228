@@ -11,7 +11,7 @@ I love building scalable platforms, mentoring teams, and integrating clean code 
 ### 🔧 Tech Stack
 
 **Frontend**: React, Redux Toolkit, TypeScript, Styled Components, Storybook, Material UI  
-**Backend**: Node.js, Express.js, Kotlin, Ktor, Spring Boot, Spring JDBC  
+**Backend**: Java, Node.js, Express.js, Kotlin, Ktor, Spring Boot, Spring JDBC  
 **Databases**: MongoDB, MySQL  
 **DevOps & Tools**: Docker, Git, Bitbucket, Render, Vercel, Postman, AWS SQS  
 **Practices**: Agile, REST APIs, JWT Auth, CI/CD, Monorepos, TDD
